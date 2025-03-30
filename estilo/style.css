@@ -12,7 +12,7 @@
 :root {
     --font1: Verdana, Geneva, Tahoma, Sans-serif;
     --font2: "Passion One", cursive;
-    --font3: "Jost", cursive;
+    --font3: "Jost", sans-serif;
 }
 
 html, body {
